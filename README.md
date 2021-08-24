@@ -1,1 +1,3 @@
-# DubleDableDo A fun repo for Python based projects and tools.
+# DubleDableDo 
+
+	""" A fun repo for Python based projects and tools """
