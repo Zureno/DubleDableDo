@@ -54,7 +54,7 @@ try:
 	chan = bhSession.accept(20)
 	print ("[+] Authenticated!")
 	print (chan.recv(1024))
-	chan.send("Welcome to bh_ssh")
+	chan.send("Welcome to Server")
 	while True:
 		try:
 			command = input("Enter command:").strip('\n')
